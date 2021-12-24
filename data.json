@@ -1,0 +1,22 @@
+{
+    "https://www.amazon.in/dp/B099ZZ13JB/ref=s9_acsd_al_bw_c2_x_2_t?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-6&pf_rd_r=NZWKSZKD59WQEE58C73D&pf_rd_t=101&pf_rd_p=1b942b4e-4c2f-4aec-ac9c-c3866bde5eeb&pf_rd_i=26297682031": {
+        "Name": "Acer Nitro 5 AN515-57 Gaming Laptop | Intel Core i5-11400H |NVIDIA GeForce RTX 3050 Laptop Graphics |15.6\" FHD 144Hz IPS Display |8GB DDR4 | 256GB SSD+1TB HDD | Killer Wi-Fi 6 | RGB Backlit Keyboard",
+        "Price": 68990.0,
+        "Drop_Price": 62091.0
+    },
+    "https://www.amazon.in/OnePlus-inches-Smart-Android-43Y1/dp/B08B42HNH7/ref=lp_7198570031_1_1": {
+        "Name": "OnePlus 108 cm (43 inches) Y Series Full HD LED Smart Android TV 43Y1 (Black) (2020 Model)",
+        "Price": 25999.0,
+        "Drop_Price": 23399.1
+    },
+    "https://www.amazon.in/JBL-Bar-2-1-Deep-Bass/dp/B0827SG8J8/ref=sr_1_13?qid=1640356334&refinements=p_72%3A1318477031%2Cp_85%3A10440599031%2Cp_89%3AJBL&rps=1&s=electronics&sr=1-13": {
+        "Name": "JBL Bar 2.1 Deep Bass, Dolby Digital Soundbar with Wireless Subwoofer for Extra Deep Bass, 2.1 Channel Home Theatre with Remote, JBL Surround Sound, HDMI ARC, Bluetooth & Optical Connectivity (300W)",
+        "Price": 25999.0,
+        "Drop_Price": 23399.1
+    },
+    "https://www.amazon.in/Anker-4-Port-Ultra-Extended-MacBook/dp/B07L32B9C2/?_encoding=UTF8&pd_rd_w=wVme7&pf_rd_p=fcac17e8-2a87-4225-8628-a80b57a1a106&pf_rd_r=TJSFKN26GZJZM7PJBQ9K&pd_rd_r=fb1e9924-3d67-4562-a4b1-b22e80d84edc&pd_rd_wg=89db5&ref_=pd_gw_cr_cartx": {
+        "Name": "Anker 4-Port USB 3.0 Hub, Ultra-Slim Data USB A Hub with 2 ft Extended Cable [Charging Not Supported], for MacBook, Mac Pro, Mac Mini, iMac, Surface Pro, XPS, PC, Flash Drive, Mobile HDD",
+        "Price": 1599.0,
+        "Drop_Price": 1439.1
+    }
+}
